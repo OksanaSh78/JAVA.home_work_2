@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-11T05:53:16.676081400Z</date>
+  <millis>1678513996676</millis>
+  <nanos>81400</nanos>
+  <sequence>0</sequence>
+  <logger>home_work_2.zadacha_1.z_1</logger>
+  <level>INFO</level>
+  <class>home_work_2.zadacha_1.z_1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Sort Array</message>
+</record>
+</log>
